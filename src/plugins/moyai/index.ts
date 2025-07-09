@@ -53,9 +53,10 @@ interface IVoiceChannelEffectSendEvent {
 
 const MOYAI = "🗿";
 const MOYAI_URL =
-    "https://raw.githubusercontent.com/MeguminSama/VencordPlugins/main/plugins/moyai/moyai.mp3";
+    "https://cdn.discordapp.com/attachments/718415743183618059/1392501644692033647/plugins_moyai_moyai.mp3?ex=686fc3b7&is=686e7237&hm=cfca722005c35ba5d9d3e9af96725475a07a50eeab6c19ef969e9e5d8c967dae&";
+
 const MOYAI_URL_HD =
-    "https://raw.githubusercontent.com/MeguminSama/VencordPlugins/main/plugins/moyai/moyai_hd.wav";
+    "https://cdn.discordapp.com/attachments/718415743183618059/1392501758785490944/plugins_moyai_moyai_hd.wav?ex=686fc3d2&is=686e7252&hm=4ad26c9b54df264ae1d1aad633d55b78b41606170a704e8f927a7bfb01748a96&";
 
 const settings = definePluginSettings({
     volume: {
